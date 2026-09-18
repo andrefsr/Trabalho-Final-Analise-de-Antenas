@@ -28,6 +28,8 @@ n = 102  ### Número de pontos
 
 print(SimpsonInt(x1,x2,n, f = lambda x,y: x**2))
 
+Qual F colocar aqui?
+
 ### Trapézios repetidos
 
 # x = np.linspace(0, 1, 1000000)
